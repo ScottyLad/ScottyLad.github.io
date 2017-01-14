@@ -160,11 +160,11 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+}
 
   @include mobile {
     text-align: center;
   }
-}
 
 .site-avatar url(http://cdn0.iconfinder.com/data/icons/avatars-3/512/avatar_handsome_guy-512.png)
   float: left;
